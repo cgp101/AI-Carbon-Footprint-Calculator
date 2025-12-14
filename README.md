@@ -1,6 +1,6 @@
 # AI Carbon Footprint Calculator 
 
-A comprehensive carbon footprint tracking application with machine learning predictions, AI-powered recommendations, and real-world data integrations.Built during Cognizant's Vibe Coding Event (July 2024).
+A comprehensive carbon footprint tracking application with machine learning predictions, AI-powered recommendations, and real-world data integrations.Built during Cognizant's Vibe Coding Event (July 2025).
 
 ## Overview
 
@@ -269,4 +269,5 @@ MIT License - See [LICENSE](LICENSE) file for details
 ---
 
 **Note**: This project demonstrates full-stack development capabilities with ML/AI integration. While all core features are functional, some third-party integrations require paid API subscriptions for complete testing.
+
 
