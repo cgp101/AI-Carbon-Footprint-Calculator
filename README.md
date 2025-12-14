@@ -2,6 +2,8 @@
 
 A comprehensive carbon footprint tracking application with machine learning predictions, AI-powered recommendations, and real-world data integrations.Built during Cognizant's Vibe Coding Event (July 2025).
 
+
+
 ## Overview
 
 This application transforms carbon footprint tracking from simple data entry into an intelligent system that predicts future emissions, provides personalised AI recommendations, and integrates with external data sources for automated tracking.
@@ -271,3 +273,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 **Note**: This project demonstrates full-stack development capabilities with ML/AI integration. While all core features are functional, some third-party integrations require paid API subscriptions for complete testing.
 
 
+## Note
+   This project was created during Cognizant Technology Solutions' internal hackathon event (July 2025). 
+   All intellectual property rights belong to Cognizant Technology Solutions Canada, Inc.
+   This repository is maintained for educational reference only.
