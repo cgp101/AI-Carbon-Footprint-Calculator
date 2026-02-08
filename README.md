@@ -274,6 +274,4 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 
 ## Note
-   This project was created during Cognizant Technology Solutions' internal hackathon event (July 2025). 
-   All intellectual property rights belong to Cognizant Technology Solutions Canada, Inc.
-   This repository is maintained for educational reference only.
+   This project was created during Cognizant Technology Solutions' hackathon event (July 2025).
